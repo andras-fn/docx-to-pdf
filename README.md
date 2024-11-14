@@ -1,4 +1,4 @@
-##How to use
+## How to use
  - Clone repo
  - Npm i
  - download and install portable libreoffice
